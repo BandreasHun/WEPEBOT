@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Wall Street Pepe",
+    "CA": "0xccb365d2e11ae4d6d74715c680f56cf58bf4bf10",
+    "ChainId": "ethereum",
+    "StartPrice": "0.0003556"
+  },
+  {
+    "Name": "WOMAN YELLING AT CAT",
+    "CA": "BEgBsVSKJSxreiCE1XmWWq8arnwit7xDqQXSWYgay9xP",
+    "ChainId": "solana",
+    "StartPrice": "0.001693"
+  },
+  {
+    "Name": "Dogecoin",
+    "CA": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+    "ChainId": "bsc",
+    "StartPrice": "0.1787"
+  },
+  {
+    "Name": "Vine Coin",
+    "CA": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+    "ChainId": "solana",
+    "StartPrice": "0.04116"
+  }
+]
